@@ -1,6 +1,6 @@
 <?php
 
-namespace alirezax5\XuiApi\Panel;
+namespace armin\XuiApi\Panel;
 
 
 class Base
