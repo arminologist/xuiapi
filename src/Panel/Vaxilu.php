@@ -1,8 +1,8 @@
 <?php
 
-namespace alirezax5\XuiApi\Panel;
+namespace armin\XuiApi\Panel;
 
-use alirezax5\XuiApi\Traits\Additions;
+use armin\XuiApi\Traits\Additions;
 
 class Vaxilu extends Base
 {
