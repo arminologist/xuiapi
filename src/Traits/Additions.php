@@ -1,8 +1,8 @@
 <?php
 
-namespace alirezax5\XuiApi\Traits;
+namespace armin\XuiApi\Traits;
 
-use alirezax5\XConvert\XConvert;
+use armin\XConvert\XConvert;
 use inc\functions;
 
 trait Additions
