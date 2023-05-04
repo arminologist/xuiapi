@@ -2,7 +2,7 @@
 
 namespace armin\XuiApi\Panel;
 
-use armim\XConvert\XConvert;
+use armin\XConvert\XConvert;
 use armin\XuiApi\Traits\Additions;
 
 class MHSanaei extends Base
