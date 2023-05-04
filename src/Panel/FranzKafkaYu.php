@@ -1,9 +1,9 @@
 <?php
 
-namespace alirezax5\XuiApi\Panel;
+namespace armin\XuiApi\Panel;
 
-use alirezax5\XConvert\XConvert;
-use alirezax5\XuiApi\Traits\Additions;
+use armin\XConvert\XConvert;
+use armin\XuiApi\Traits\Additions;
 
 class FranzKafkaYu extends Base
 {
