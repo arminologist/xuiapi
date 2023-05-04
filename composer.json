@@ -1,20 +1,20 @@
 {
-    "name": "alirezax5/xuiapi",
+    "name": "armin/xuiapi",
     "description": "api for x-ui panel",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "alirezax5\\XuiApi\\": "src/",
-            "alirezax5\\XuiApi\\Traits\\": "src/Traits"
+            "armin\\XuiApi\\": "src/",
+            "armin\\XuiApi\\Traits\\": "src/Traits"
         }
     },
     "authors": [
         {
-            "name": "alirezax5",
-            "email": "alirezaaghax6@gmail.com"
+            "name": "armin",
+            "email": "arminmalekzwde@gmail.com"
         }
     ],
     "require": {
-        "alirezax5/x-convert": "^1.0.0"
+        "armin/x-convert": "^1.0.0"
     }
 }
