@@ -1,11 +1,11 @@
 {
-    "name": "armin/xuiapi",
+    "name": "arminologist/xuiapi",
     "description": "api for x-ui panel",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "armin\\XuiApi\\": "src/",
-            "armin\\XuiApi\\Traits\\": "src/Traits"
+            "arminologist\\XuiApi\\": "src/",
+            "arminologist\\XuiApi\\Traits\\": "src/Traits"
         }
     },
     "authors": [
@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "armin/x-convert": "^1.0.0"
+        "arminologist/x-convert": "^1.0.0"
     }
 }
